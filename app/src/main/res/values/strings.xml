@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Galeri</string>
+    <string name="egitya">egitya</string>
+    <string name="syafira">syafira</string>
+    <string name="selamat_datang_di_halaman_drinks">Selamat datang di halaman Egitya</string>
+    <string name="selamat_datang_di_halaman_foods">Selamat datang di halaman Syafira</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="nama">nama</string>
+
+    <string-array name="egitya_name">
+        <item>Di Balik</item>
+        <item>Jiwa</item>
+        <item>Yang</item>
+        <item>Bar-Bar</item>
+        <item>Terdapat</item>
+        <item>Hati</item>
+        <item>Yang</item>
+        <item>Ambyar</item>
+
+    </string-array>
+
+    <string-array name="syafira_name">
+        <item>Di Balik</item>
+        <item>Jiwa</item>
+        <item>Yang</item>
+        <item>Bar-Bar</item>
+        <item>Terdapat</item>
+        <item>Hati</item>
+        <item>Yang</item>
+        <item>Ambyar</item>
+
+    </string-array>
+
+    <array name="egitya_image">
+        <item>@drawable/aduh</item>
+        <item>@drawable/aduhai</item>
+        <item>@drawable/alay</item>
+        <item>@drawable/cantik</item>
+        <item>@drawable/silir</item>
+        <item>@drawable/sampo</item>
+        <item>@drawable/mentel</item>
+        <item>@drawable/kewor</item>
+    </array>
+
+    <array name="syafira_image">
+        <item>@drawable/bahagia</item>
+        <item>@drawable/cantek</item>
+        <item>@drawable/uhu</item>
+        <item>@drawable/saae</item>
+        <item>@drawable/pantai</item>
+        <item>@drawable/panas</item>
+        <item>@drawable/mandang</item>
+        <item>@drawable/uluh</item>
+
+    </array>
+</resources>
